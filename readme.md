@@ -36,7 +36,6 @@ After preprocessing, data is converted to tf-idf vectors. These tf-idf vectors a
 train the logistic regression model. Using this model I schieved  43.75% accuracy.
 Any changes in the model were not making much change in the training accuracy.
 
-
 # 2. Deep learning models(RNN and LSTM)
 
 After preprocessing, words in each sentence are replaced by a number, and zero padding is
